@@ -32,9 +32,15 @@ npm start
 
 ## postman
 this project use http://localhost:5000 
+
 一開始假資料庫陣列是空
+
 Method get(): http://localhost:5000/user --- 得到全部使用者資料
+
 Method get(): http://localhost:5000/user/id --- 依照id得到特定使用者資料
+
 Method post(): http://localhost:5000/user --- 建立使用者資料
+
 Method delete(): http://localhost:5000/user/id --- 依照id刪除特定使用者資料
+
 Method patch(): http://localhost:5000/user/id --- 依照id更新特定使用者資料
